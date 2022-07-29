@@ -1,14 +1,8 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-I am creative, hands-on developer who is passionate about software engineering, building products that are easy to use, delight users and solve real world problems. Though not a designer by profession, I have keen interest in usability & user experience (application/software design).
+I am a software architect / CTO with over 10 years of experience in full stack development & leading product cycle from conception to completion. Extensive experience in leading teams of 5-15+ members through multiple product launches.
 
-Stared programming & graphic design in high school (1997).
-
-Professionally, I have a diverse work experience (~15 years) from building products like forex trading systems, bitcoin miner to working as CTO for a funded startup.
-
-Recently I worked as a technical architect (& lead) of a multi million $ mobile app build in React Native for STC (Saudi Telecom Company). At present I am helping a few international companies build their engineering teams.
-
-Personal Projects - <a href="https://imagecompressor.io">ImageCompressor.io</a>, <a href="https://covidtracking.in">CovidTracking.in</a>
+Professionally, I have diverse work experience from building complex products like forex trading systems, a bitcoin miner, working as a technical architect & lead for an enterprise react native application to a CTO for a funded startup.
 
 <a href="https://stackoverflow.com/users/213469/aseem-gautam"><img src="https://stackoverflow.com/users/flair/213469.png" width="208" height="58" alt="profile for Aseem Gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aseem Gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
