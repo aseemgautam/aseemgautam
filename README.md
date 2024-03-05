@@ -1,10 +1,11 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-I am a software architect / CTO with over 10 years of experience in full stack development & leading product cycle from conception to completion. Extensive experience in leading teams of 5-15+ members through multiple product launches.
+I am a self taught coder who's been programming since high school (1997).
 
-Professionally, I have diverse work experience from building complex products like forex trading systems, a bitcoin miner, working as a technical architect & lead for an enterprise react native application to a CTO for a funded startup.
+Professionally, I have been an entrepreneur and CTO for more than 16 years and have successfully led and motivated teams of 5-15+ members through several product launches. The journey has been incredible, with numerous challenges and opportunities to learn. Nevertheless, I am grateful for the experiences that have shaped me into the person I am today.
 
-<a href="https://stackoverflow.com/users/213469/aseem-gautam"><img src="https://stackoverflow.com/users/flair/213469.png" width="208" height="58" alt="profile for Aseem Gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aseem Gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+My professional experience is diverse and includes building trading systems, bitcoin miner, leading an enterprise mobile app team & serving as CTO for a funded startup.
+
 <!--
 **aseemgautam/aseemgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
